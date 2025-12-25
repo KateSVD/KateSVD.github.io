@@ -90,5 +90,6 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
-title: KateSVD
-description: Blog about C#, Avalonia, and sound recognition
+theme: jekyll-theme-minimal
+title: Kate's blog
+description: Blog about C#, Avalonia
